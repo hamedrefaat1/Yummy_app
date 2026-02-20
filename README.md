@@ -31,15 +31,15 @@ The app was developed using **Clean Architecture** principles, ensuring separati
 
 | Home | Product Details | Search |
 |------|----------------|--------|
-| <img src="screenshots/home.png" width="200"/> | <img src="screenshots/product_details.png" width="200"/> | <img src="screenshots/search.png" width="200"/> |
+| <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/product_details.jpg" width="200"/> | <img src="screenshots/search.jpg" width="200"/> |
 
 | Cart | Checkout | Order History |
 |------|----------|--------------|
-| <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/checkout.png" width="200"/> | <img src="screenshots/order_history.png" width="200"/> |
+| <img src="screenshots/cart.jpg" width="200"/> | <img src="screenshots/checkout.jpg" width="200"/> | <img src="screenshots/order_history.jpg" width="200"/> |
 
 | Profile | Splash | Auth |
 |---------|--------|------|
-| <img src="screenshots/profile.png" width="200"/> | <img src="screenshots/splash.png" width="200"/> | <img src="screenshots/auth.png" width="200"/> |
+| <img src="screenshots/profile.jpg" width="200"/> | <img src="screenshots/splash.jpg" width="200"/> | <img src="screenshots/signup.jpg" width="200"/>  <img src="screenshots/login.jpg" width="200"/> |
 
 </div>
 
