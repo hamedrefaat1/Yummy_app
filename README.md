@@ -8,7 +8,6 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamedrefaat1/Yummy_app)
 
 </div>
@@ -163,7 +162,10 @@ Since the API may occasionally be unavailable during development, **dummy data**
 | `test/` | Unit and widget tests |
 
 ---
+## 🎥 Demo
+[▶️ Watch Demo](https://bit.ly/3OtyKfl)
 
+---
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo, open issues, or submit pull requests.
@@ -184,11 +186,8 @@ Contributions are welcome! Feel free to fork the repo, open issues, or submit pu
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
 
 <div align="center">
 
