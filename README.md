@@ -25,7 +25,6 @@ The app was developed using **Clean Architecture** principles, ensuring separati
 
 ## 📸 Screenshots
 
-> Place your screenshots inside the `screenshots/` folder in the project root.
 
 <div align="center">
 
