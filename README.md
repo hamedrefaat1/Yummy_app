@@ -38,7 +38,7 @@ The app was developed using **Clean Architecture** principles, ensuring separati
 
 | Profile | Splash | Signup | Login |
 |---------|--------|--------|-------|
-| <img src="screenshots/profile.jpg" width="200"/> | <img src="screenshots/splash.jpg" width="200"/> | <img src="screenshots/signup.jpg" width="200"/>  <img src="screenshots/login.jpg" width="200"/> |
+| <img src="screenshots/profile.jpg" width="200"/> | <img src="screenshots/splash.jpg" width="200"/> | <img src="screenshots/signup.jpg" width="200"/> | <img src="screenshots/login.jpg" width="200"/> |
 
 </div>
 
