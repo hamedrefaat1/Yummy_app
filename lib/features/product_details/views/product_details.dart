@@ -241,7 +241,7 @@ class _ProductDetailsState extends State<ProductDetails> {
                             },
                           ),
                         ),
-                  const Gap(100), // مساحة عشان الزرار مياكلش المحتوى
+                  const Gap(100),
                 ],
               ),
             ),

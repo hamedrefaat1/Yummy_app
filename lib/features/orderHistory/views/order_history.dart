@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gap/flutter_gap.dart';
 import 'package:yummy/core/constants/app_colors.dart';
-import 'package:yummy/features/orderHistory/data/dummt_orders_repo.dart'; // تأكد من مسار الـ Repo
+import 'package:yummy/features/orderHistory/data/dummt_orders_repo.dart';
 import 'package:yummy/shared/custom_text.dart';
 
 class OrderHistory extends StatelessWidget {
@@ -10,7 +10,7 @@ class OrderHistory extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white, // لون خلفية هادي ومريح
+      backgroundColor: Colors.white, 
       appBar: AppBar(
         title: const CustomText(
           text: "Order History",
@@ -73,7 +73,7 @@ class OrderHistory extends StatelessWidget {
                     padding: const EdgeInsets.all(15),
                     child: Column(
                       children: [
-                        // 1. الجزء العلوي: رقم الطلب والحالة
+                        
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
@@ -82,12 +82,12 @@ class OrderHistory extends StatelessWidget {
                               children: [
                                 CustomText(
                                   text:
-                                      "Order #00${index + 125}", // رقم طلب وهمي
+                                      "Order #00${index + 125}", 
                                   size: 14,
                                   color: Colors.grey,
                                 ),
                                 const CustomText(
-                                  text: "20 Oct, 2023 - 10:30 AM", // وقت وهمي
+                                  text: "20 Oct, 2023 - 10:30 AM", 
                                   size: 12,
                                   color: Colors.grey,
                                 ),
@@ -116,7 +116,6 @@ class OrderHistory extends StatelessWidget {
                           child: Divider(thickness: 0.5),
                         ),
 
-                        // 2. الجزء الأوسط: صورة المنتج وتفاصيله
                         Row(
                           children: [
                             ClipRRect(
@@ -167,7 +166,7 @@ class OrderHistory extends StatelessWidget {
 
                         const Gap(20),
 
-                        // 3. الجزء السفلي: زر إعادة الطلب (Re-Order)
+                       
                         SizedBox(
                           width: double.infinity,
                           height: 50,
@@ -180,7 +179,7 @@ class OrderHistory extends StatelessWidget {
                               elevation: 2,
                             ),
                             onPressed: () {
-                              // Logic لإعادة الطلب
+                             
                             },
                             child: const CustomText(
                               text: "Re-Order Now",

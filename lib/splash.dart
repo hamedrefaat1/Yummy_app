@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gap/flutter_gap.dart';
 import 'package:yummy/core/constants/app_colors.dart';
+import 'package:yummy/features/auth/view/signup_view.dart';
 import 'package:yummy/root.dart';
 import 'package:yummy/shared/yummy_logo.dart';
 
